@@ -149,7 +149,7 @@ Join our [Discord](https://discord.gg/ugyc4EVUYZ) if you have any problems or wa
   <details>
   <summary> v5.0.3 </summary>
   <ul> <li>Compatibility with the new Among Us version v2023.11.28</li> </ul>
-  <ul> <li>Role gen system reparied, courtesy of @AlchlcDvl</li> </ul>
+  <ul> <li>Role gen system reparied, courtesy of @AlchlcDvl and @fariparedes</li> </ul>
   <ul> <li>Role color is now used for interaction highlights</li> </ul>
   <ul> <li>Changes to intro role colors, courtesy of @Loonie-Toons</li> </ul>
   <ul> <li>Custom keybinds for interactions - integration to among us keybinds, courtesy of @whichtwix</li> </ul>
