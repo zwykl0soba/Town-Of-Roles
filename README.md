@@ -774,11 +774,13 @@ If the mod does not work and the version of Among Us that you see in the main me
 \
 **11. Click on Enter.**\
 \
-**12. Copy or move the contents of the Town Of Us zip file into the AmongUs folder.**\
+**12. Copy all the Among Us files and put them in a new folder on your desktop or anywhere else.**\
 \
-**13. Finally, launch Among Us from Epic Games library.**\
+**13. Paste the contents of the town of us zip in the new folder.**\
 \
-A first launch may take up to 5 minutes, so be patient if it doesn't launch immediately.<br/>
+**14. Open the ```EpicGamesStartGame.cmd``` by double clicking it.**\
+\
+A first launch may take awhile as it sets up and downloads prerequisites, so be patient if it doesn't launch immediately.<br/>
 <br/>
 
 If the mod does not work and the version of Among Us that you see in the main menu, under the town of us logo or bottom left, does not correspond to the version indicated in the [releases table](#releases) above please do the following to get the correct version:
