@@ -780,6 +780,8 @@ If the mod does not work and the version of Among Us that you see in the main me
 \
 **14. Open the ```EpicGamesStartGame.cmd``` by double clicking it.**\
 \
+**15. Add the folder as a exclusion for any antivirus you have and for windows defender.**\
+\
 A first launch may take awhile as it sets up and downloads prerequisites, so be patient if it doesn't launch immediately.<br/>
 <br/>
 
