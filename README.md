@@ -778,7 +778,7 @@ If the mod does not work and the version of Among Us that you see in the main me
 \
 **13. Paste the contents of the town of us zip in the new folder.**\
 \
-**14. Open the ```EpicGamesStartGame.cmd``` by double clicking it.**\
+**14. Open the ```EpicGamesStarter.exe``` by double clicking it to start the game in the copy.**\
 \
 **15. Add the folder as a exclusion for any antivirus you have and for windows defender.**\
 \
