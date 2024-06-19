@@ -1,11 +1,10 @@
-## *Note: This repository is an unofficial continuation of Town of Us due to the original repository being discontinued.*
+## *Note: This repository is a fork of the TownOfUs-R mod and it is only an experimental project.*
 
 ![LOGO](./Images/TOU-logo.png)
 ![Roles](./Images/Roles.png)
 
 An Among Us mod that adds a bunch of roles, modifiers and game settings
 
-Join our [Discord](https://discord.gg/ugyc4EVUYZ) if you have any problems or want to find people to play with!
 
 | **Impostor Roles**           | **Crewmate Roles**                | **Neutral Roles**               | **Modifiers**                |
 |:---------------------------:|:---------------------------------:|:-------------------------------:|:---------------------------:|
@@ -38,13 +37,13 @@ Join our [Discord](https://discord.gg/ugyc4EVUYZ) if you have any problems or wa
 # Releases
 | Among Us - Version| Mod Version | Link |
 |----------|-------------|-----------------|
-| 2024.3.5s & 2024.3.5e | v5.0.4.1 | Not avaible |
+| 2024.3.5s & 2024.3.5e | v2024.XX.XX | Not avaible |
 | 2024.3.5s & 2024.3.5e | v5.0.4 | [Download](https://github.com/eDonnes124/Town-Of-Us/releases/download/v5.0.4/ToU.v5.0.4.zip) |
 
 <details>
   <summary> Changelog </summary>
   <details>
-  <summary> v5.0.4a </summary>
+  <summary> v2024.XX.XX </summary>
   <ul> <li>Changed ImitateSelect icon
   </details>
   <details>
