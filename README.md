@@ -56,7 +56,7 @@ An Among Us mod that adds a bunch of roles, modifiers and game settings
   <ul> <li>Hats system standardised to Unity Addressables</li> </ul>
   <ul> <li>New Role: Hunter, courtesy of @fariparedes</li> </ul>
   <ul> <li>Modified updater, courtesy of @whichtwix</li> </ul>
-  </details>
+</details>
 
 
 -----------------------
