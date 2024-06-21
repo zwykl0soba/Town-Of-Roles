@@ -307,7 +307,7 @@ On Admin Table, the Spy can see the colors of every person on the map.
 
 
 -----------------------
-## Time Lord
+## {NEW} Time Lord
 ### **Team: Crewmates**
 
 The Time Lord is a Crewmate that can rewind time and reverse the positions of all players.
