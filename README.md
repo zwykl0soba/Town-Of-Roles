@@ -3,9 +3,6 @@
 ![LOGO](./Images/TOU-logo.png)
 ![Roles](./Images/Roles.png)
 
-An Among Us mod that adds a bunch of roles, modifiers and game settings
-
-
 | **Impostor Roles**           | **Crewmate Roles**                | **Neutral Roles**               | **Modifiers**                |
 |:---------------------------:|:---------------------------------:|:-------------------------------:|:---------------------------:|
 | [Blackmailer](#blackmailer)  | [Altruist](#altruist)              | [Amnesiac](#amnesiac)            | [Aftermath](#aftermath)     |
@@ -27,6 +24,7 @@ An Among Us mod that adds a bunch of roles, modifiers and game settings
 |                             | [Snitch](#snitch)                  |                                 |                             |
 |                             | [Spy](#spy)                        |                                 |                             |
 |                             | [Swapper](#swapper)                |                                 |                             |
+|                             | [Time Lord](#time-lord)                |                                 |                             |
 |                             | [Tracker](#tracker)                |                                 |                             |
 |                             | [Trapper](#trapper)                |                                 |                             |
 |                             | [Transporter](#transporter)        |                                 |                             |
@@ -37,14 +35,15 @@ An Among Us mod that adds a bunch of roles, modifiers and game settings
 # Releases
 | Among Us - Version| Mod Version | Link |
 |----------|-------------|-----------------|
-| 2024.3.5s & 2024.3.5e | v2024.XX.XX | Not avaible |
-| 2024.3.5s & 2024.3.5e | v5.0.4 | [Download](https://github.com/eDonnes124/Town-Of-Us/releases/download/v5.0.4/ToU.v5.0.4.zip) |
+| 2024.3.5s & 2024.3.5e | v2024.06.XX | Not avaible |
+| 2024.3.5s & 2024.3.5e | v5.0.4 (ToU-R, not modified) | [Download](https://github.com/eDonnes124/Town-Of-Us/releases/download/v5.0.4/ToU.v5.0.4.zip) |
 
 <details>
   <summary> Changelog </summary>
   <details>
-  <summary> v2024.XX.XX </summary>
-  <ul> <li>Changed ImitateSelect icon
+  <summary> v2024.06.?? </summary>
+  <ul> <li>Added back time lord!
+  <ul> <li>Changed imitator icon
   </details>
   <details>
   <summary> v5.0.4 </summary>
@@ -305,6 +304,26 @@ On Admin Table, the Spy can see the colors of every person on the map.
 |----------|:-------------:|:------:|:------:|
 | Spy | The percentage probability of the Spy appearing | Percentage | 0% |
 | Who Sees Dead Bodies On Admin | Which players see dead bodies on the admin map | Nobody / Spy / Everyone But Spy / Everyone | Nobody |
+
+
+-----------------------
+## Time Lord
+### **Team: Crewmates**
+
+The Time Lord is a Crewmate that can rewind time and reverse the positions of all players.
+If enabled, any players killed during this time will be revived.
+Nothing but movements and kills are affected.
+If enabled, the Time Lord can't use Vitals to make things more balanced.
+### Game Options
+| Name | Description | Type | Default |
+|----------|:-------------:|:------:|:------:|
+| Time Lord | The percentage probability of the Time Lord appearing | Percentage | 0% |
+| Revive During Rewind | Whether the Time Lord revives dead players when rewinding | Time | False |
+| Rewind Duration | How far the rewind goes back in time | Time | 2s |
+| Rewind Cooldown | The cooldown of the Time Lord's Rewind button | Time | 25s |
+| Max Uses | The amount of times the Rewind ability can be used | Number | 5 |
+| Time Lord can use Vitals | Whether the Time Lord has the ability to use Vitals | Toggle | false |
+
 
 -----------------------
 ## Tracker
