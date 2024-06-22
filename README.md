@@ -44,7 +44,7 @@
 <summary> In progress</summary>
 <ul> <li>[Bugfix] Time lord settings not showing</li> </ul>
 <ul> <li>Mystic arrow duration improvement</li> </ul>
-<ul> <li>Precision of random map 5%<li> </ul>
+<ul> <li>Precision of random map 5%</li> </ul>
 <ul> <li>And more settings changes</li> </ul>
 </details>
 
