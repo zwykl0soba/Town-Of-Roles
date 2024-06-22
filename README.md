@@ -35,26 +35,14 @@
 # Releases
 | Among Us - Version| Mod Version | Link |
 |----------|-------------|-----------------|
-| 2024.3.5s & 2024.3.5e | v2024.06.XX | Not avaible |
-| 2024.3.5s & 2024.3.5e | v5.0.4 (ToU-R, not modified) | [Download](https://github.com/eDonnes124/Town-Of-Us/releases/download/v5.0.4/ToU.v5.0.4.zip) |
+| 2024.3.5s & 2024.3.5e | v2024.06.22 | [Download](https://github.com/zwykl0soba/Town-Of-Roles/releases/download/v2024.06.22-pre-alpha/TownOfRoles-v2024.06.22-install.zip) |
 
+# Changelog
 <details>
-  <summary> Changelog </summary>
-  <details>
-  <summary> v2024.06.?? </summary>
-  <ul> <li>Added back time lord!
-  <ul> <li>Changed imitator icon
-  </details>
-  <details>
-  <summary> v5.0.4 </summary>
-  <ul> <li>Compatibility with the new Among Us version v2024.3.5</li> </ul>
-  <ul> <li>Added ghosts ignore tasks option</li> </ul>
-  <ul> <li>Hide vanilla roles in hudstring and its tab, courtesy of @whichtwix</li> </ul>
-  <ul> <li>April fools options, courtesy of @whichtwix</li> </ul>
-  <ul> <li>Vampire Remains Vampire When Remembered, courtesy of @Loons-Loons/@Loonie-Toons</li> </ul>
-  <ul> <li>Hats system standardised to Unity Addressables</li> </ul>
-  <ul> <li>New Role: Hunter, courtesy of @fariparedes</li> </ul>
-  <ul> <li>Modified updater, courtesy of @whichtwix</li> </ul>
+<summary> v2024.06.22 pre-alpha</summary>
+<ul> <li>Added back time lord! </li> </ul>
+<ul> <li>Changed an icon for the imitator role
+<ul> <li>source/resource/ImitateSelect.png </li> </ul> </li> </ul>
 </details>
 
 
