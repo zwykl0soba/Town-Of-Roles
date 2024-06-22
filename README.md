@@ -1,7 +1,8 @@
 ## *Note: This repository is a fork of the TownOfUs-R mod and it is only an experimental project.*
 
-![LOGO](./Images/TOU-logo.png)
-![Roles](./Images/Roles.png)
+![LOGO](./Images/logo/logo_full_dark.png)
+
+# Roles and modifiers
 
 | **Impostor Roles**           | **Crewmate Roles**                | **Neutral Roles**               | **Modifiers**                |
 |:---------------------------:|:---------------------------------:|:-------------------------------:|:---------------------------:|
