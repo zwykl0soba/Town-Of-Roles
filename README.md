@@ -240,7 +240,7 @@ On top of this, the Mystic briefly gets an arrow pointing in the direction of th
 | Name | Description | Type | Default |
 |----------|:-------------:|:------:|:------:|
 | Mystic | The percentage probability of the Mystic appearing | Percentage | 0% |
-| Arrow Duration | The duration of the arrows pointing to the bodies | Time | 0.1s |
+| Arrow Duration | The duration of the arrows pointing to the bodies | Time | 0.5s |
 
 -----------------------
 ## Oracle
