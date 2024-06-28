@@ -36,6 +36,8 @@ namespace TownOfUs
         SetSwaps,
         Protect,
         AttemptSound,
+        Rewind,
+        RewindRevive,
         Morph,
         Mine,
         Swoop,

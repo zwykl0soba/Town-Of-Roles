@@ -22,6 +22,7 @@ namespace TownOfUs
         Veteran,
         Amnesiac,
         Juggernaut,
+        TimeLord,
         Tracker,
         Transporter,
         Medium,
