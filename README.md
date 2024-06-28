@@ -1,6 +1,7 @@
 ## *Note: This repository is a fork of the TownOfUs-R mod and it is only an experimental project.*
 
 ![LOGO](./Images/logo/logo_full_dark.png)
+![ROLES](./Images/Roles.png)
 
 # Roles and modifiers
 
