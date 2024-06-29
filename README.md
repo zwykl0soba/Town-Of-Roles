@@ -35,18 +35,18 @@
 |                             | [Vigilante](#vigilante)            |                                 |                             |
 -----------------------
 # Releases
-| Among Us - Version| Mod Version | Type | Link |
-|----------|-------------|-------------|-----------------|
-| 2024.3.5s & 2024.3.5e | v2024.06.22 | Pre-alpha | [Download](https://github.com/zwykl0soba/Town-Of-Roles/releases/download/v2024.06.22-pre-alpha/TownOfRoles-v2024.06.22-install.zip) |
+| Among Us - Version| Mod Version | Type | Link | - |
+|----------|-------------|-------------|-----------------|---|
+| 2024.3.5s & 2024.3.5e | v2024.06.29 | Pre-alpha | [Download](https://github.com/zwykl0soba/Town-Of-Roles/releases/download/v2024.06.29-pre-alpha/TownOfRoles-v2024.06.29.zip) | - |
+| 2024.3.5s & 2024.3.5e | v2024.06.22 | Pre-alpha | [Download](https://github.com/zwykl0soba/Town-Of-Roles/releases/download/v2024.06.22-pre-alpha/TownOfRoles-v2024.06.22-install.zip) | - |
 
 # Changelog
 
 <details>
-<summary> In progress</summary>
+<summary> v2024.06.29 pre-alpha</summary>
 <ul> <li>[Bugfix] Time lord settings not showing</li> </ul>
 <ul> <li>Mystic arrow duration improvement</li> </ul>
-<ul> <li>Precision of random map 5%</li> </ul>
-<ul> <li>And more settings changes</li> </ul>
+<ul> <li>Additional settings changes</li> </ul>
 </details>
 
 <details>
