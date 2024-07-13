@@ -43,14 +43,14 @@
 # Changelog
 
 <details>
-<summary> v2024.06.29 pre-alpha</summary>
+<summary> v2024.06.29</summary>
 <ul> <li>[Bugfix] Time lord settings not showing</li> </ul>
 <ul> <li>Mystic arrow duration improvement</li> </ul>
 <ul> <li>Additional settings changes</li> </ul>
 </details>
 
 <details>
-<summary> v2024.06.22 pre-alpha</summary>
+<summary> v2024.06.22</summary>
 <ul> <li>Added back time lord! </li> </ul>
 <ul> <li>Changed an icon for the imitator role
 <ul> <li>source/resource/ImitateSelect.png </li> </ul> </li> </ul>
