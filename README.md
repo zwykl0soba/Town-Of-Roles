@@ -37,7 +37,7 @@
 # Releases
 | Among Us - Version| Mod Version | Type | Link | - |
 |----------|-------------|-------------|-----------------|---|
-| 2024.3.5s & 2024.3.5e | v2024.06.29 | Pre-alpha | [dll file]([https://github.com/zwykl0soba/Town-Of-Roles/releases/download/v2024.06.29-pre-alpha/TownOfRoles-v2024.06.29.zip](https://github.com/zwykl0soba/Town-Of-Roles/releases/download/untagged-a244034c15ff55b7d7cb/TownOfUs.dll)) | - |
+| 2024.3.5s & 2024.3.5e | v2024.06.29 | Pre-alpha | [dll file](https://github.com/zwykl0soba/Town-Of-Roles/releases/download/untagged-a244034c15ff55b7d7cb/TownOfUs.dll) | - |
 | 2024.3.5s & 2024.3.5e | v2024.06.22 | Pre-alpha | [Download](https://github.com/zwykl0soba/Town-Of-Roles/releases/download/v2024.06.22-pre-alpha/TownOfRoles-v2024.06.22-install.zip) | - |
 
 # Changelog
